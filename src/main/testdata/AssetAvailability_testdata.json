@@ -1,0 +1,15 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "Username":"baneswar",
+   "Password":"QA4lnt@$",
+   "drpJoblistHR": "LE150530",
+   "input" : "0105",
+   "cluster" :"544 - TI IC - Kolkata Cluster",
+   "fliter" :"Bulldozer - 165 HP - 19 T Class",
+   "AssestCode" :"0105109H",
+   "AssestDescription" : "Bulldozer - 165 HP - 19 T Class - Bulldozer < 300 HP",
+   "JobCode" : "LE23M069",
+   "JobDescription" : "CIVIL & STRUCTURAL WORKS AT BALCO KORBA",
+   "Cluster" :"337 - Default Minerals & Metals Cluster",
+   "IC" :"2440 5 - Minerals & Metals"
+}

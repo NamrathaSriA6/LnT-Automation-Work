@@ -1,0 +1,9 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "PM_Initial_Commissioning": "https://eip4qa.lntecc.com/EIPAMS/AMSUI/InitialComm",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"chandra",
+    "Password":"QA4lnt@$"
+    
+}

@@ -1,0 +1,38 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "GroupMasterURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/groupMaster",
+    "AssetGroupmasterURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/groupMaster/GrpSearchDetail",
+    "Username":"Chandra",
+    "Password":"QA4lnt@$",
+    "GroupCode":"9990",
+    "GroupDescription":"Transit mixture",
+    "Assettype":"P&M and Vehicles",
+    "Category":"Concreting Eqpt",
+    "SubCategory":"Transit Mixers",
+    "Class":"Transit Mixers >= 6 Cum",
+    "Asset_Account_tag":"PLANT & MACHINERY",
+    "Major_minor":"Major",
+    "HSNCode":"9485",
+    "Depreciation_Percentage":"20",
+    "FuelperHr":"90",
+    "InternalHireCharge":"2000",
+
+    "PrimaryEngineDesc":"Primary Engine",
+    "SecondaryEngineDesc":"Seconday Engine",
+    "ConfigurationMinimum":"20",
+    "ConfigurationMaximum":"30",
+
+    "ExternalHireCharge":"3000",
+
+    "MinimumHireCharge":"500",
+    "MaximumHireCharge":"5000",
+    "AverageHireCharge":"2000",
+
+    "HoursperDay":"10",
+    "DaysperMonth":"25",
+    "HoursperMonth":"160",
+
+    "HiringMinAge":"5",
+    "HiringMaxAge":"10"
+
+}

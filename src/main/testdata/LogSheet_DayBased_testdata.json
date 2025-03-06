@@ -1,0 +1,12 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "LogSheetPage": "https://eip4qa.lntecc.com/EIPAMS/AMSUI/logsheet",
+    "Username":"Baneswar",
+    "Password":"QA4lnt@$",
+    "Job":"150756",
+    "AssetCode":"5015177H",
+    "FuelQuantity":"10",
+    "Remarks_field": "Test",
+    "LogsheetText" : "Log Sheet"
+
+}

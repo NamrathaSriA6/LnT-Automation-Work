@@ -1,0 +1,13 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"S-GUPTA",
+    "Password":"QA4lnt@$",
+    "Remarks": "Test",
+    "ReceiptText": "Receipt",
+    "AdvSearchdate":"26-Feb-2010 - 26-Mar-2024",
+    "Status_before":"Pending",
+    "Status_after":"RN Taken"
+   
+   }

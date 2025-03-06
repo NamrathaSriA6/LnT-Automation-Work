@@ -1,0 +1,14 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "Extension_Request_Page": "https://eip4qa.lntecc.com/EIPAMS/AMSUI/hiring/extension-landing",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"HS-TIDWAL",
+    "Password":"QA4lnt@$",
+    "JobText" : "Job",
+    "DocumentText" : "Document",
+    "PHRSnumberText" : "PHRS Number",
+    "AssetGroupText" : "Asset Group",
+    "PHRSNumber" : "LE",
+    "ShitHours": "10"
+}

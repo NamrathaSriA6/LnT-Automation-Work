@@ -1,0 +1,25 @@
+{
+    "FAPURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/FixedAssetProcess",
+    "Username":"nava",
+    "Password":"QA4lnt@$",
+    "Depreciation_Process":"Depreciation Process",
+    "Acqn_Date_change":"Acqn Date change",
+    "Acqn_Value_change":"Acqn Value change",
+    "IND_AS_Acqn_Value_change":"IND.AS.Acqn Value change",
+    "Cumulative_Depreciation_change":"Cumulative Depreciation change",
+    "IND_AS_Cumulative_Depreciation_change":"IND.AS.Cumulative Depreciation change",
+    "IND_AS_Book_Value_change":"IND.AS.Book Value change",
+    "Book_Value_change":"Book Value change",
+    "Depreciation_percent_change":"Depreciation percent change",
+    "Owner_Code_change":"Owner Code change",
+    "PorV_Tag_change":"P or V Tag  change",
+    "Error_Value_Tag_change":"Error Value Tag change",
+    "Disposed_Date_change":"Disposed Date change",
+    "Asset_Status_change":"Asset Status change",
+    "Opening_Balance_reorganisation":"Opening Balance reorganisation",
+    "Disposed_Value_change":"Disposed Value change",
+
+    "Company":"LTC"
+
+
+}

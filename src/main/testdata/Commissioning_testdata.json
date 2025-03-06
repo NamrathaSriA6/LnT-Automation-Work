@@ -1,0 +1,18 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"S-GUPTA",
+    "Username_Noncumulative":"SRIYASKHAN",
+    "Password":"QA4lnt@$",
+    "Commissioning": "Commissioning",
+    "AdvSearchdate":"26-Feb-2010 - 26-Mar-2024",
+    "Meter_reading_current": "100",
+    "Reason": "New Commissioning",
+    "Meter_Reading_pre" : "Meter Reading (Previous)",
+    "Meter_Reading_cur" : "Meter Reading (Current)",
+    "Reason_text" : "Reason for Meter Reading Change",
+    "Page_main_text": "Create Asset - CX Request"
+
+
+}

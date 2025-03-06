@@ -1,0 +1,8 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "PHRS_Status_Page": "https://eip4qa.lntecc.com/EIPAMS/AMSUI/hiring/PHRStatus",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"Baneswar",
+    "Password":"QA4lnt@$"
+}

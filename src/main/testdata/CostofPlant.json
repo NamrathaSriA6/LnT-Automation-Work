@@ -1,0 +1,13 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "CPInitiationURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/cpprocess/cpinitiation",
+    "CPStatementURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/cpprocess/cpapproval",
+    "CPAssetMinorAllocationURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/cpprocess/cpminorasset",
+    "CPMissingCostAllocationURL":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/cpprocess/cpmissingcost",
+    "CP_PM_IHC_Statement":"https://eip4qa.lntecc.com/EIPAMS/AMSUI/cpprocess/cpihcstatement",
+    "Username":"niyaz",
+    "Password":"QA4lnt@$",
+    "remarks": "Remarks",
+    "AssetMinorAllocationJobCode":"LE180620",
+    "PM_IHC_JobCode":"LE160552"
+}

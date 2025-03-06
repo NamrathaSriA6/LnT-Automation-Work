@@ -1,0 +1,20 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"mkdb",
+    "Username2":"AMRITOSHKUMARJHA",
+    "Password":"QA4lnt@$",
+    "Job":"150530",
+    "Job2":"150756",
+    "Measurement_Approval" : "Measurement Approval",
+    "ApprovalRemarks": "No Remarks",
+    "CancelRemarks" : "No use",
+    "Approval_text" : "Approval Remarks",
+    "Hold_Remarks" : "Hold Remarks",
+    "SendBackRemarks" : "No",
+    "HoldRemarks" : "Change",
+    "SendBack_text": "Send Back Remarks",
+    "Cancel_text" : "Cancel Remarks"
+
+}

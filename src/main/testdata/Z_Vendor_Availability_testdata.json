@@ -1,0 +1,18 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "Username" : "Knowell123",
+    "Username2":"chandra",
+    "Password":"QA4lnt@$",
+    "Menu_input":"Add Equipment Availability",
+    "Assetgrp":"8475",
+    "Assetdescription":"Truck",
+    "EquipmentQTY":"2",
+    "Status":"Active",
+    "EquipmentCapacity":"100",
+    "Age":"5",
+    "Location":"Chennai",
+    "Remarks":"Nothing",
+
+
+    "Vendor_input":"Knowell"
+}

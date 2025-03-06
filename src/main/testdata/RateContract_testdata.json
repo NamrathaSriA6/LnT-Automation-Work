@@ -1,0 +1,15 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "RateContract": "https://eip4qa.lntecc.com/EIPAMS/AMSUI/RateContract",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"trcs",
+    "Password":"QA4lnt@$",
+    "Assetcode": "0135",
+    "Username2": "Baneswar",
+    "Job": "150530",
+    "PersonName": "Nams",
+    "MobileNoInput": "1234567891",
+    "EmailId" : "avd4@gmail.com",
+    "MailCc": "fadghf@gmail.com"
+}
